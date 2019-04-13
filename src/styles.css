@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+}
+
+.header-bar {
+  background-color: #4e4d4a;
+  min-height: 75px;
+}
